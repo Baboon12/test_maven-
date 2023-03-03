@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.bhavya.AppTest" time="0.495" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Student\Documents\bhavya\target\test-classes;C:\Users\Student\Documents\bhavya\target\classes;C:\Users\Student\.m2\repository\org\testng\testng\7.7.1\testng-7.7.1.jar;C:\Users\Student\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\Student\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\Student\.m2\repository\org\slf4j\slf4j-api\2.0.6\slf4j-api-2.0.6.jar;C:\Users\Student\.m2\repository\org\slf4j\slf4j-log4j12\1.5.6\slf4j-log4j12-1.5.6.jar;C:\Users\Student\.m2\repository\log4j\log4j\1.2.14\log4j-1.2.14.jar;C:\Users\Student\.m2\repository\org\slf4j\slf4j-nop\2.0.6\slf4j-nop-2.0.6.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17.0.5\bin"/>
+    <property name="sun.java.command" value="C:\Users\Student\AppData\Local\Temp\surefire81374202453583207\surefirebooter6154026729894937734.jar C:\Users\Student\AppData\Local\Temp\surefire81374202453583207 2023-03-03T16-52-06_040-jvmRun1 surefire9559948539618910081tmp surefire_05895367417917519663tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Student\Documents\bhavya\target\test-classes;C:\Users\Student\Documents\bhavya\target\classes;C:\Users\Student\.m2\repository\org\testng\testng\7.7.1\testng-7.7.1.jar;C:\Users\Student\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\Student\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\Student\.m2\repository\org\slf4j\slf4j-api\2.0.6\slf4j-api-2.0.6.jar;C:\Users\Student\.m2\repository\org\slf4j\slf4j-log4j12\1.5.6\slf4j-log4j12-1.5.6.jar;C:\Users\Student\.m2\repository\log4j\log4j\1.2.14\log4j-1.2.14.jar;C:\Users\Student\.m2\repository\org\slf4j\slf4j-nop\2.0.6\slf4j-nop-2.0.6.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Student"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-10-18"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17.0.5"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Student\Documents\bhavya"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Student\AppData\Local\Temp\surefire81374202453583207\surefirebooter6154026729894937734.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.5+9-LTS-191"/>
+    <property name="user.name" value="Student"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Student\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Student\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.5"/>
+    <property name="user.dir" value="C:\Users\Student\Documents\bhavya"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17.0.5\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Kaspersky Lab\Kaspersky Endpoint Security for Windows\;C:\Program Files\MATLAB\R2021b\runtime\win64;C:\Program Files\MATLAB\R2021b\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Dart\dart-sdk\bin;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\MinGW\bin;C:\Users\Student\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Student\AppData\Local\Programs\Python\Python311\;C:\Users\Student\AppData\Local\Microsoft\WindowsApps;C:\Users\Student\Desktop\Microsoft VS Code\bin;C:\Snort\bin;C:\Users\Student\AppData\Roaming\npm;C:\MinGW\bin;C:\apache-maven-3.9.0\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.5+9-LTS-191"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testlogin1" classname="com.bhavya.AppTest" time="0.014"/>
+  <testcase name="testlogin2" classname="com.bhavya.AppTest" time="0.001"/>
+</testsuite>
